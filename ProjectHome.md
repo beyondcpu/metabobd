@@ -1,0 +1,2 @@
+metaboBD offers powerful pipeline for biomarkers discovery in metabolomics analysis. This tool contains the multiple algorithms for correcting signals drift and evaluating the data quality,which is able to remove both batch effect and injection order effects
+. Additionally, it also includes statistical analysis modules for screening the potential biomarkers from the thousands of analyses and generates visual data displaying important features of metabolomics data.
